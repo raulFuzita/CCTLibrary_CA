@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<root>
+    <book>
+        <id>1</id>
+        <title>Effective Java</title>
+        <author>Joshua Bloch</author>
+        <genre>Programming Language</genre>
+        <quantity>1</quantity>
+    </book>
+    <book>
+        <id>2</id>
+        <title>Clean Code</title>
+        <author>Robert C. Martin</author>
+        <genre>Programming Language</genre>
+        <quantity>1</quantity>
+    </book>
+    <book>
+        <id>3</id>
+        <title>Clean Architecture</title>
+        <author>Robert C. Martin</author>
+        <genre>Programming Language</genre>
+        <quantity>2</quantity>
+    </book>
+    <book>
+        <id>4</id>
+        <title>The Murder of Roger Ackroyd</title>
+        <author>Agatha Christie</author>
+        <genre>Detective Novel</genre>
+        <quantity>3</quantity>
+    </book>
+    <book>
+        <id>5</id>
+        <title>The Picture Of Dorian Gray</title>
+        <author>Oscar Wilde</author>
+        <genre>Philosophical Novel</genre>
+        <quantity>1</quantity>
+    </book>
+    <book>
+        <id>6</id>
+        <title>The Karamazov Brothers</title>
+        <author>Dostoevsky</author>
+        <genre>Philosophical Novel</genre>
+        <quantity>3</quantity>
+    </book>
+    <book>
+        <id>7</id>
+        <title>Rich Dad Poor Dad</title>
+        <author>Robert T. Kiyosaki</author>
+        <genre>Self-help</genre>
+        <quantity>1</quantity>
+    </book>
+    <book>
+        <id>8</id>
+        <title>Programmer's Introduction to Mathematics</title>
+        <author>Jeremy Kun</author>
+        <genre>Mathematics</genre>
+        <quantity>1</quantity>
+    </book>
+</root>

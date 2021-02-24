@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<root>
+    <reader>
+        <id>1</id>
+        <name>John</name>
+        <surname>Doe</surname>
+        <birthdate>1986-02-10</birthdate>
+        <address>20, Parnel Street, Dublin, Ireland</address>
+    </reader>
+    <reader>
+        <id>2</id>
+        <name>Peter</name>
+        <surname>Smith</surname>
+        <birthdate>1982-05-14</birthdate>
+        <address>5, O'Connel Street, Dublin, Ireland</address>
+    </reader>
+    <reader>
+        <id>3</id>
+        <name>Anne</name>
+        <surname>White</surname>
+        <birthdate>1990-12-02</birthdate>
+        <address>15, Temple Bar, Dublin, Ireland</address>
+    </reader>
+    <reader>
+        <id>4</id>
+        <name>Jackie</name>
+        <surname>Murray</surname>
+        <birthdate>1988-08-07</birthdate>
+        <address>32, Kilmacud, Dublin, Ireland</address>
+    </reader>
+</root>

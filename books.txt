@@ -1,0 +1,8 @@
+1;Effective Java;Joshua Bloch;Programming Language;1
+2;Clean Code;Robert C. Martin;Programming Language;1
+3;Clean Architecture;Robert C. Martin;Programming Language;2
+4;The Murder of Roger Ackroyd;Agatha Christie;Detective Novel;3
+5;The Picture Of Dorian Gray;Oscar Wilde;Philosophical Novel;1
+6;The Karamazov Brothers;Dostoevsky;Philosophical Novel;3
+7;Rich Dad Poor Dad;Robert T. Kiyosaki;Self-help;1
+8;Programmer's Introduction to Mathematics;Jeremy Kun;Mathematics;1

@@ -1,0 +1,4 @@
+1;John;Doe;1986-02-10;20, Parnel Street, Dublin, Ireland
+2;Peter;Smith;1982-05-14;5, O'Connel Street, Dublin, Ireland
+3;Anne;White;1990-12-02;15, Temple Bar, Dublin, Ireland
+4;Jackie;Murray;1988-08-07;32, Kilmacud, Dublin, Ireland

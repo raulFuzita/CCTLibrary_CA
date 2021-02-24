@@ -1,0 +1,58 @@
+{"object": [
+    {
+        "quantity": 2,
+        "author": "Joshua Bloch",
+        "genre": "Programming Language",
+        "id": 1,
+        "title": "Effective Java"
+    },
+    {
+        "quantity": 1,
+        "author": "Robert C. Martin",
+        "genre": "Programming Language",
+        "id": 2,
+        "title": "Clean Code"
+    },
+    {
+        "quantity": 2,
+        "author": "Robert C. Martin",
+        "genre": "Programming Language",
+        "id": 3,
+        "title": "Clean Architecture"
+    },
+    {
+        "quantity": 3,
+        "author": "Agatha Christie",
+        "genre": "Detective Novel",
+        "id": 4,
+        "title": "The Murder of Roger Ackroyd"
+    },
+    {
+        "quantity": 1,
+        "author": "Oscar Wilde",
+        "genre": "Philosophical Novel",
+        "id": 5,
+        "title": "The Picture Of Dorian Gray"
+    },
+    {
+        "quantity": 3,
+        "author": "Dostoevsky",
+        "genre": "Philosophical Novel",
+        "id": 6,
+        "title": "The Karamazov Brothers"
+    },
+    {
+        "quantity": 1,
+        "author": "Robert T. Kiyosaki",
+        "genre": "Self-help",
+        "id": 7,
+        "title": "Rich Dad Poor Dad"
+    },
+    {
+        "quantity": 1,
+        "author": "Jeremy Kun",
+        "genre": "Mathematics",
+        "id": 8,
+        "title": "Programmer's Introduction to Mathematics"
+    }
+]}
