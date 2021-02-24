@@ -11,6 +11,13 @@ This is a simple application in Java that performs CRUD with a few types of file
 	<li>Java Object in Text File</li>
 </ul>
 
+<h2>Dependencies</h2>
+
+<p>
+	You'll have to import json-20201115.jar to run this project. You can find the jar file 
+	in the directory <b>resources/</b>
+</p>
+
 <h2>Which file should I run?</h2>
 
 <p>
